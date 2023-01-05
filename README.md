@@ -31,5 +31,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     $ yarn json-server db.json
 
     # Executar Projeto
-    $ yarn start
+    $ yarn dev
 ```
