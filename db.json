@@ -1,7 +1,7 @@
 {
   "schedules": [
     {
-      "patient": "Vitor Faria",
+      "patient": "Vitor Farias",
       "doctor": "Dr. Smith",
       "answered": false,
       "price": 454,
