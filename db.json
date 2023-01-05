@@ -1,0 +1,59 @@
+{
+  "schedules": [
+    {
+      "patient": "teste",
+      "doctor": "Dr. Smith",
+      "answered": false,
+      "price": 454,
+      "procedure": "Exame de rotina",
+      "date": "2023-03-02T15:30:00.000Z",
+      "id": 1,
+      "answeredBool": true
+    },
+    {
+      "patient": "Novo agendamento",
+      "price": "1222",
+      "doctor": "Dr. Smith",
+      "procedure": "Exame de rotina",
+      "date": "2023-01-05T19:30:55.749Z",
+      "id": 2,
+      "answered": false,
+      "answeredBool": true
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Smith",
+      "specialty": "Family Medicine"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Jones",
+      "specialty": "Pediatrics"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Williams",
+      "specialty": "Internal Medicine"
+    }
+  ],
+  "procedures": [
+    {
+      "id": 1,
+      "name": "Exame de rotina"
+    },
+    {
+      "id": 2,
+      "name": "Cardiologista"
+    },
+    {
+      "id": 3,
+      "name": "Pediatria"
+    },
+    {
+      "id": 4,
+      "name": "Radiografia"
+    }
+  ]
+}
